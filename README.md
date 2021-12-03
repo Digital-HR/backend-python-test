@@ -64,20 +64,7 @@ This app use [Flask](http://flask.pocoo.org/docs/0.10/).
 
 
 ### How to submit your work?
-
-1. ##### First you need to fork this repository.
-![Forking a repo](/web/img/fork.png?raw=true "Forking a repo")
-
-2. ##### Then clone your fork locally.
-![Cloning a repo](/web/img/clone.png?raw=true "Cloning a repo")
-
-3. ##### Install the app locally. See the [Installation Guide] (#Installation).
-
-4. ##### Once you've completed your work, you can submit a pull-request to the remote repository.
-![ a Pull Request](/web/img/pull-request.png?raw=true "Creating a Pull Request")
-
-5. ##### Review your changes and validate.
-![Validating a Pull Request](/web/img/pull-request-review.png?raw=true "Validating a Pull Request")
+Make a pull request with all of the commits for each task
 
 
 
