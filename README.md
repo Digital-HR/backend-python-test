@@ -12,15 +12,6 @@ Credentials:
 * username: **user1**
 * password: **user1**
 
-#### Homepage:
-![Homepage](/web/img/homepage.png?raw=true "Homepage")
-
-#### Login page:
-![Login page](/web/img/login-page.png?raw=true "Login page")
-
-#### Todos:
-![Todos](/web/img/todos.png?raw=true "Todos")
-
 ### Requirements
 * python 5.7
 * virtualenv
@@ -28,7 +19,6 @@ Credentials:
 * A github account
 
 ### Installation
-**/!\ You need to fork this repository. See [How to submit your work?](#how-to-submit-your-work)**
 ```sh
 virtualenv .
 bin/pip install -r requirements.txt
@@ -64,13 +54,5 @@ This app use [Flask](http://flask.pocoo.org/docs/0.10/).
 
 ### How to submit your work?
 Make a pull request with all of the commits for each task
-
-
-
 And you're done!
-
-
-More documentation on Github:
-* https://help.github.com/articles/fork-a-repo/
-* https://help.github.com/articles/using-pull-requests/
 
