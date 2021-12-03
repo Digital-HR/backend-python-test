@@ -13,7 +13,7 @@ Credentials:
 * password: **user1**
 
 ### Requirements
-* python 5.7
+* python 3.7
 * virtualenv
 * sqlite3
 * A github account
